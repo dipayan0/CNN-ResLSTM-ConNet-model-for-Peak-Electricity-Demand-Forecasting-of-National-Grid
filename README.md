@@ -166,6 +166,7 @@ The code and trained models are released under the [MIT License](LICENSE). The d
 The authors thank the Information Management Division and the System Planning Division of Power Grid Bangladesh PLC for providing the data and the national grid map used in this study.
 
 ## Contact
-
-Dipayan Bhadra, Department of Statistics and Data Science, Jahangirnagar University, and Power Grid Bangladesh PLC
+Dipayan Bhadra, Department of Electrical Engineering, University of Colorado Denver, Denver, Colorado, USA and Department of Statistics and Data Science, Jahangirnagar University, Savar, Dhaka
 dipu_dipayan@outlook.com · ORCID [0009-0004-9844-3607](https://orcid.org/0009-0004-9844-3607)
+Dr. Rumana Rois, Department of Statistics and Data Science, Jahangirnagar University
+Email: rois@juniv.edu · ORCID ORCID ID: [0000-0002-0751-7104](https://orcid.org/0000-0002-0751-7104)
